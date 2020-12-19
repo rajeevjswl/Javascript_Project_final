@@ -1,0 +1,17 @@
+{
+  "name": "Javascript_Project_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "build": "browserify -p esmify function.js -o final.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "custom_calculator": "^1.0.0",
+    "esmify": "^2.1.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "custom_calculator",
+  "version": "1.0.0",
+  "description": "Package for custom calculator",
+  "main": "file1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajeev Jaiswal",
+  "license": "ISC"
+}
